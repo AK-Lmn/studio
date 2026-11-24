@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="112" fill="#000000"/>
+  <text x="76" y="327" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="168" font-weight="800" fill="#FFFFFF">AKL</text>
+  <circle cx="422" cy="315" r="14" fill="#FF2E9A"/>
+</svg>
