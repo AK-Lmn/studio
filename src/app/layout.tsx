@@ -22,13 +22,13 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://studio.aklmn.me"),
-  title: "AKL Studio — Web + Creative Systems",
+  title: "AKL STUDIO",
   description:
     "Web apps, group-buy storefronts & custom full-stack systems for small businesses. Delivered in 24–48h. Starts at ₱500.",
   icons: {
     icon: [
       { url: "/favicon.svg", type: "image/svg+xml" },
-      { url: "/favicon.ico", sizes: "any" },
+      { url: "/icon.svg", type: "image/svg+xml" },
     ],
     shortcut: "/favicon.svg",
     apple: "/favicon.svg",
@@ -42,17 +42,17 @@ export const metadata: Metadata = {
     "Next.js full-stack",
   ],
   openGraph: {
-    title: "AKL Studio — Web + Creative Systems",
+    title: "AKL STUDIO",
     description:
       "Web apps, group-buy storefronts & custom full-stack systems. Starts at ₱500.",
     url: "https://studio.aklmn.me",
-    siteName: "AKL Studio",
+    siteName: "AKL STUDIO",
     locale: "en_PH",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "AKL Studio — Web + Creative Systems",
+    title: "AKL STUDIO",
     description:
       "Web apps, group-buy storefronts & custom full-stack systems. Starts at ₱500.",
   },
