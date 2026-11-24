@@ -98,7 +98,7 @@ export default function Hero({ onSelectCategory }: HeroProps) {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-base sm:text-lg md:text-xl text-ink-2 max-w-2xl mx-auto leading-relaxed mb-8"
         >
-          Custom websites, Google Sheet order dashboards, promo graphics, and quick code fixes. Fixed rates, 24–48h delivery, and no monthly fees.
+          Custom websites, Google Sheet order dashboards, promo graphics, and quick code fixes. Negotiable rates, 24–48h delivery, and no monthly fees.
         </motion.p>
 
         {/* Primary CTA Buttons */}
